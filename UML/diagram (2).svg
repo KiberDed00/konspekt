@@ -1,0 +1,184 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1561.55 1096.3" width="1561.55" height="1096.3" id="m7461f7__root" data-diagram-type="state">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .m-node .m-shape{fill:var(--m-node-fill);stroke:var(--m-node-stroke);stroke-width:1.5px}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-edge-label .m-pill-bg,.mercat .m-edge-label .m-shape{fill:var(--m-pill-bg);stroke:var(--m-pill-border);stroke-width:1px}.mercat .m-edge-label .m-label{fill:var(--m-text-sec)}.mercat .t-label{font-size:13px;font-weight:500}.mercat .t-edge{font-size:11px;font-weight:400}</style>
+  <style data-mercat-style="theme-light">#m7461f7__root{--m-text:#1f1f1f;--m-text-sec:#797979;--m-line:#545454;--m-node-fill:#f8f9fa;--m-node-stroke:#747775;--m-pill-bg:#fbfbfb;--m-pill-border:#d7d7d7}</style>
+  <style data-mercat-style="theme-dark">#m7461f7__root.dark{--m-text:#e3e3e3;--m-text-sec:#959595;--m-line:#bfbfbf;--m-node-fill:#2d2e30;--m-node-stroke:#8e918f;--m-pill-bg:#232323;--m-pill-border:#424242}</style>
+  <style data-mercat-style="type">#m7461f7__root .m-node .m-shape.state-start{fill:var(--m-text);stroke:none}#m7461f7__root .m-node .m-shape.state-end-outer{fill:none;stroke:var(--m-text);stroke-width:2px}#m7461f7__root .m-node .m-shape.state-end-inner{fill:var(--m-text);stroke:none}</style>
+  <g class="mercat mercat-state" transform="translate(15.36, -35)">
+    <defs>
+      <marker id="m7461f7__mk-arrow" refX="9.45" refY="3.4" markerWidth="10.8" markerHeight="6.8" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 0 L 10.8 3.4 L 0 6.8 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-node m-edge" id="m7461f7__edge___5fstart__S1__0" data-role="connector">
+      <path d="M 1293.92 82.45 L 1293.92 205.55" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S1__S2__0" data-role="connector">
+      <path d="M 1301.98 243.8 L 1301.98 273.8 Q 1301.98 279.8, 1307.98 279.8 L 1355.95 279.8 Q 1361.95 279.8, 1361.95 285.8 L 1361.95 362.45" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S1__S4__0" data-role="connector">
+      <path d="M 1285.86 243.8 L 1285.86 273.8 Q 1285.86 279.8, 1279.86 279.8 L 1244.22 279.8 Q 1238.22 279.8, 1238.22 285.8 L 1238.22 519.35" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S1__S7__0" data-role="connector">
+      <path d="M 1293.92 243.8 L 1293.92 611.6 Q 1293.92 617.6, 1299.92 617.6 L 1357.59 617.6 Q 1363.59 617.6, 1363.59 623.6 L 1363.59 833.15" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S2__S3__0" data-role="connector">
+      <path d="M 1361.95 400.7 L 1361.95 696.2 Q 1361.95 702.2, 1355.95 702.2 L 1339.55 702.2" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S2__S4__0" data-role="connector">
+      <path d="M 1353.89 400.7 L 1353.89 446.7 Q 1353.89 452.7, 1347.89 452.7 L 1255.09 452.7 Q 1249.09 452.7, 1249.09 458.7 L 1249.09 519.35" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S2__S7__0" data-role="connector">
+      <path d="M 1370.01 400.7 L 1370.01 595.6 Q 1370.01 601.6, 1376.01 601.6 L 1427.2 601.6 Q 1433.2 601.6, 1433.2 607.6 L 1433.2 846.95 Q 1433.2 852.95, 1427.2 852.95 L 1382.6 852.95" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S3__S5__0" data-role="connector">
+      <path d="M 1309.79 714.5 L 1309.79 744.5 Q 1309.79 750.5, 1303.79 750.5 L 1278.12 750.5 Q 1272.12 750.5, 1272.12 756.5 L 1272.12 833.15" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S3__S4__0" data-role="connector">
+      <path d="M 1338.2 689.9 L 1352.2 689.9 Q 1358.2 689.9, 1358.2 683.9 L 1358.2 551.3 Q 1358.2 545.3, 1352.2 545.3 L 1268.3 545.3" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S3__S7__0" data-role="connector">
+      <path d="M 1320.54 714.5 L 1320.54 744.5 Q 1320.54 750.5, 1326.54 750.5 L 1346.84 750.5 Q 1352.84 750.5, 1352.84 756.5 L 1352.84 833.15" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S4__S2__0" data-role="connector">
+      <path d="M 1266.95 533 L 1398.99 533 Q 1404.99 533, 1404.99 527 L 1404.99 388.25 Q 1404.99 382.25, 1398.99 382.25 L 1386.34 382.25" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S4__S3__0" data-role="connector">
+      <path d="M 1249.09 557.6 L 1249.09 627.6 Q 1249.09 633.6, 1255.09 633.6 L 1309.17 633.6 Q 1315.17 633.6, 1315.17 639.6 L 1315.17 676.25" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S4__S7__0" data-role="connector">
+      <path d="M 1238.22 557.6 L 1238.22 726.05 Q 1238.22 732.05, 1244.22 732.05 L 1329.18 732.05 Q 1335.18 732.05, 1335.18 738.05 L 1335.18 851.6" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S5__S6__0" data-role="connector">
+      <path d="M 1272.12 871.4 L 1272.12 990.05" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S6___5fend__0" data-role="connector">
+      <path d="M 1272.12 1028.3 L 1272.12 1088.95" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-edge" id="m7461f7__edge__S7___5fend2__0" data-role="connector">
+      <path d="M 1358.22 871.4 L 1358.22 996.5" class="m-path" marker-end="url(#m7461f7__mk-arrow)"/>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_92_d1_8b_d0_bb_d0_b5_d1_82_d0_b5_d0_bb_22_20as_20S5" data-role="vertex">
+      <rect x="-0.36" y="50" width="132.17" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="65.72" y="68.45" class="m-label t-label" text-anchor="middle">"Вылетел" as S5</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_97_d0_b0_d0_b4_d0_b5_d1_80_d0_b6_d0_b0_d0_bd_22_20as_20S4" data-role="vertex">
+      <rect x="171.8" y="50" width="140.55" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="242.08" y="68.45" class="m-label t-label" text-anchor="middle">"Задержан" as S4</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_9e_d1_82_d0_bc_d0_b5_d0_bd_d0_b5_d0_bd_22_20as_20S7" data-role="vertex">
+      <rect x="352.35" y="50" width="132.1" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="418.41" y="68.45" class="m-label t-label" text-anchor="middle">"Отменен" as S7</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_9f_d0_be_20_d1_80_d0_b0_d1_81_d0_bf_d0_b8_d1_81_d0_b0_d0_bd_d0_b8_d1_8e_22_20as_20S1" data-role="vertex">
+      <rect x="524.46" y="50" width="175.37" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="612.14" y="68.45" class="m-label t-label" text-anchor="middle">"По расписанию" as S1</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d0_b0_22_20as_20S3" data-role="vertex">
+      <rect x="739.82" y="50" width="132.1" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="805.87" y="68.45" class="m-label t-label" text-anchor="middle">"Посадка" as S3</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_9f_d1_80_d0_b8_d0_b1_d1_8b_d0_bb_22_20as_20S6" data-role="vertex">
+      <rect x="911.92" y="50" width="124.17" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="974.01" y="68.45" class="m-label t-label" text-anchor="middle">"Прибыл" as S6</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node___22_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d1_8f_22_20as_20S2" data-role="vertex">
+      <rect x="1076.1" y="50" width="163.82" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1158.01" y="68.45" class="m-label t-label" text-anchor="middle">"Регистрация" as S2</text>
+    </g>
+    <g class="m-node m-node--state-start" id="m7461f7__node___5fstart" data-role="vertex">
+      <circle cx="1293.92" cy="68.45" r="12" class="m-shape state-start"/>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S1" data-role="vertex">
+      <rect x="1270.88" y="206.9" width="46.07" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1293.92" y="225.35" class="m-label t-label" text-anchor="middle">S1</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S2" data-role="vertex">
+      <rect x="1338.92" y="363.8" width="46.07" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1361.95" y="382.25" class="m-label t-label" text-anchor="middle">S2</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S4" data-role="vertex">
+      <rect x="1220.36" y="520.7" width="46.59" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1243.66" y="539.15" class="m-label t-label" text-anchor="middle">S4</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S3" data-role="vertex">
+      <rect x="1292.13" y="677.6" width="46.07" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1315.17" y="696.05" class="m-label t-label" text-anchor="middle">S3</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S5" data-role="vertex">
+      <rect x="1249.05" y="834.5" width="46.13" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1272.12" y="852.95" class="m-label t-label" text-anchor="middle">S5</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S7" data-role="vertex">
+      <rect x="1335.18" y="834.5" width="46.07" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1358.22" y="852.95" class="m-label t-label" text-anchor="middle">S7</text>
+    </g>
+    <g class="m-node m-node--rounded" id="m7461f7__node__S6" data-role="vertex">
+      <rect x="1249.08" y="991.4" width="46.07" height="36.9" rx="5" ry="5" class="m-shape"/>
+      <text x="1272.12" y="1009.85" class="m-label t-label" text-anchor="middle">S6</text>
+    </g>
+    <g class="m-node m-node--state-end" id="m7461f7__node___5fend2" data-role="vertex">
+      <circle cx="1358.22" cy="1009.85" r="12" class="m-shape state-end-outer"/>
+      <circle cx="1358.22" cy="1009.85" r="8" class="m-shape state-end-inner"/>
+    </g>
+    <g class="m-node m-node--state-end" id="m7461f7__node___5fend" data-role="vertex">
+      <circle cx="1272.12" cy="1102.3" r="12" class="m-shape state-end-outer"/>
+      <circle cx="1272.12" cy="1102.3" r="8" class="m-shape state-end-inner"/>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1200.71" y="133.02" width="186.41" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1293.92" y="144.67" class="m-label t-edge" text-anchor="middle">Создание рейса в расписании</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1297.92" y="310.15" width="188.09" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1391.96" y="321.8" class="m-label t-edge" text-anchor="middle">Начало регистрации (за 2-3 ч)</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1162.26" y="388.6" width="127.93" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1226.22" y="400.25" class="m-label t-edge" text-anchor="middle">Выявлена задержка</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1246.31" y="419.05" width="95.21" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1293.92" y="430.7" class="m-label t-edge" text-anchor="middle">Отмена рейса</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1296.9" y="549.3" width="154.11" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1373.95" y="560.95" class="m-label t-edge" text-anchor="middle">Окончание регистрации</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1175.08" y="461.45" width="114.84" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1232.5" y="473.1" class="m-label t-edge" text-anchor="middle">Задержка вылета</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1385.6" y="715.62" width="95.21" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1433.2" y="727.28" class="m-label t-edge" text-anchor="middle">Отмена рейса</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1110.73" y="780.85" width="222.19" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1221.82" y="792.5" class="m-label t-edge" text-anchor="middle">Посадка завершена, борт отправлен</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1273.62" y="637.42" width="157.17" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1352.2" y="649.07" class="m-label t-edge" text-anchor="middle">Задержка перед вылетом</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1279.27" y="754.5" width="147.14" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1352.84" y="766.15" class="m-label t-edge" text-anchor="middle">Снятие рейса с вылета</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1297.92" y="456.7" width="233.27" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1414.55" y="468.35" class="m-label t-edge" text-anchor="middle">Назначено новое время (регистрация)</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1085.55" y="583.95" width="207.09" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1189.09" y="595.6" class="m-label t-edge" text-anchor="middle">Назначено новое время (посадка)</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1161.69" y="665.71" width="124.45" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1223.91" y="677.36" class="m-label t-edge" text-anchor="middle">Решение об отмене</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1148.17" y="919.75" width="206.04" height="23.3" rx="11.65" ry="11.65" class="m-pill-bg"/>
+      <text x="1251.2" y="931.4" class="m-label t-edge" text-anchor="middle">Посадка в аэропорту назначения</text>
+    </g>
+  </g>
+</svg>
