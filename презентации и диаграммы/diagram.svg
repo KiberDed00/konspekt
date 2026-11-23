@@ -1,0 +1,282 @@
+<svg class="light" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2267.08 466" width="2267.08" height="466" id="m10b5ba__root" data-diagram-type="class">
+  <style data-mercat-style="universal">.mercat text{font-family:'Google Sans',Roboto,Arial,sans-serif;fill:var(--m-text);dominant-baseline:central}.mercat .t-code{font-family:'Google Sans Mono','Roboto Mono',monospace}.mercat .m-node .m-shape{fill:var(--m-node-fill);stroke:var(--m-node-stroke);stroke-width:1.5px}.mercat .m-edge .m-path{fill:none;stroke:var(--m-line);stroke-width:1.5px}.mercat .m-edge-label .m-pill-bg,.mercat .m-edge-label .m-shape{fill:var(--m-pill-bg);stroke:var(--m-pill-border);stroke-width:1px}.mercat .m-edge-label .m-label{fill:var(--m-text-sec)}.mercat .t-label-strong{font-size:13px;font-weight:700}.mercat .t-edge{font-size:11px;font-weight:400}.mercat .t-code{font-size:11px;font-weight:400}.mercat .t-caption{font-size:10px;font-weight:500}</style>
+  <style data-mercat-style="theme-light">#m10b5ba__root{--m-text:#1f1f1f;--m-text-sec:#797979;--m-text-muted:#a5a5a5;--m-line:#545454;--m-node-fill:#f8f9fa;--m-node-stroke:#747775;--m-group-hdr:#f4f4f4;--m-pill-bg:#fbfbfb;--m-pill-border:#d7d7d7}</style>
+  <style data-mercat-style="theme-dark">#m10b5ba__root.dark{--m-text:#e3e3e3;--m-text-sec:#959595;--m-text-muted:#6d6d6d;--m-line:#bfbfbf;--m-node-fill:#2d2e30;--m-node-stroke:#8e918f;--m-group-hdr:#292929;--m-pill-bg:#232323;--m-pill-border:#424242}</style>
+  <style data-mercat-style="type">#m10b5ba__root .m-node&gt;.m-shape{stroke-width:1px}#m10b5ba__root .m-node .class-header{fill:var(--m-group-hdr);stroke:var(--m-node-stroke);stroke-width:1px}#m10b5ba__root .m-node .class-divider{fill:none;stroke:var(--m-node-stroke);stroke-width:1px}#m10b5ba__root .m-node .class-annotation{fill:var(--m-text-muted);font-style:italic}</style>
+  <style data-mercat-style="diagram">#m10b5ba__root .m-rt-fg-text-muted{fill:var(--m-text-muted)}#m10b5ba__root .m-rt-fg-text-sec{fill:var(--m-text-sec)}</style>
+  <g class="mercat mercat-class" transform="translate(-35, -35)">
+    <defs>
+      <marker id="m10b5ba__mk-diamond" refX="13.45" refY="4.8" markerWidth="14.8" markerHeight="9.6" markerUnits="userSpaceOnUse" orient="auto-start-reverse">
+        <path d="M 0 4.8 L 7.4 0 L 14.8 4.8 L 7.4 9.6 Z" class="m-marker" fill="var(--m-line)" stroke="none"/>
+      </marker>
+    </defs>
+    <g class="m-node m-edge" id="m10b5ba__edge___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb___d0_92_d1_8b_d1_85_d0_be_d0_b4_d0_9d_d0_b0_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d1_83__0" data-role="connector">
+      <path d="M 1274.99 208 L 1274.99 294 L 1098.24 294 L 1098.24 376.65" class="m-path" marker-end="url(#m10b5ba__mk-diamond)"/>
+    </g>
+    <g class="m-node m-edge" id="m10b5ba__edge___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb___d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b0_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d0_b8__0" data-role="connector">
+      <path d="M 1274.99 208 L 1274.99 294 L 1451.73 294 L 1451.73 376.65" class="m-path" marker-end="url(#m10b5ba__mk-diamond)"/>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c" data-role="vertex">
+      <rect x="50" y="70" width="174.66" height="168" class="m-shape"/>
+      <rect x="50" y="70" width="174.66" height="32" class="m-shape class-header"/>
+      <line x1="50" y1="102" x2="224.66" y2="102" class="class-divider"/>
+      <line x1="50" y1="210" x2="224.66" y2="210" class="class-divider"/>
+      <text x="137.33" y="86" class="m-label t-label-strong" text-anchor="middle">Пользователь</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d0_b8_d0_b4" data-role="member">
+        <text x="58" y="116" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d0_bb_d0_be_d0_b3_d0_b8_d0_bd" data-role="member">
+        <text x="58" y="136" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>логин</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d1_85_d1_8d_d1_88_d0_9f_d0_b0_d1_80_d0_be_d0_bb_d1_8f" data-role="member">
+        <text x="58" y="156" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>хэшПароля</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d1_84_d0_b8_d0_be" data-role="member">
+        <text x="58" y="176" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>фио</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d1_80_d0_be_d0_bb_d1_8c" data-role="member">
+        <text x="58" y="196" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>роль</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">РольПользователя</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8c___d0_b0_d0_b2_d1_82_d0_be_d1_80_d0_b8_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d1_8c_d1_81_d1_8f_28_29" data-role="member">
+        <text x="58" y="224" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>авторизоваться()</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">bool</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_a0_d0_be_d0_bb_d1_8c_d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8f" data-role="vertex">
+      <rect x="264.66" y="92" width="154.83" height="124" class="m-shape"/>
+      <rect x="264.66" y="92" width="154.83" height="48" class="m-shape class-header"/>
+      <line x1="264.66" y1="140" x2="419.49" y2="140" class="class-divider"/>
+      <line x1="264.66" y1="208" x2="419.49" y2="208" class="class-divider"/>
+      <text x="342.08" y="104" class="m-label class-annotation t-caption" text-anchor="middle">&lt;&lt;enum&gt;&gt;</text>
+      <text x="342.08" y="122" class="m-label t-label-strong" text-anchor="middle">РольПользователя</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a0_d0_be_d0_bb_d1_8c_d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8f___d0_9e_d0_9f_d0_95_d0_a0_d0_90_d0_a2_d0_9e_d0_a0" data-role="member">
+        <text x="272.66" y="154" class="m-label t-code" text-anchor="start">ОПЕРАТОР</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a0_d0_be_d0_bb_d1_8c_d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8f___d0_a1_d0_a2_d0_90_d0_a0_d0_a8_d0_98_d0_99_5f_d0_94_d0_98_d0_a1_d0_9f_d0_95_d0_a2_d0_a7_d0_95_d0_a0" data-role="member">
+        <text x="272.66" y="174" class="m-label t-code" text-anchor="start">СТАРШИЙ_ДИСПЕТЧЕР</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a0_d0_be_d0_bb_d1_8c_d0_9f_d0_be_d0_bb_d1_8c_d0_b7_d0_be_d0_b2_d0_b0_d1_82_d0_b5_d0_bb_d1_8f___d0_90_d0_94_d0_9c_d0_98_d0_9d_d0_98_d0_a1_d0_a2_d0_a0_d0_90_d0_a2_d0_9e_d0_a0_5f_d0_a1_d0_98_d0_a1_d0_a2_d0_95_d0_9c_d0_ab" data-role="member">
+        <text x="272.66" y="194" class="m-label t-code" text-anchor="start">АДМИНИСТРАТОР_СИСТЕМЫ</text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_96_d1_83_d1_80_d0_bd_d0_b0_d0_bb_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d0_b9" data-role="vertex">
+      <rect x="459.49" y="90" width="174.66" height="128" class="m-shape"/>
+      <rect x="459.49" y="90" width="174.66" height="32" class="m-shape class-header"/>
+      <line x1="459.49" y1="122" x2="634.16" y2="122" class="class-divider"/>
+      <line x1="459.49" y1="210" x2="634.16" y2="210" class="class-divider"/>
+      <text x="546.83" y="106" class="m-label t-label-strong" text-anchor="middle">ЖурналДействий</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_96_d1_83_d1_80_d0_bd_d0_b0_d0_bb_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d0_b9___d0_b8_d0_b4" data-role="member">
+        <text x="467.49" y="136" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_96_d1_83_d1_80_d0_bd_d0_b0_d0_bb_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d0_b9___d0_b2_d1_80_d0_b5_d0_bc_d1_8f_d0_a1_d0_be_d0_b1_d1_8b_d1_82_d0_b8_d1_8f" data-role="member">
+        <text x="467.49" y="156" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>времяСобытия</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_96_d1_83_d1_80_d0_bd_d0_b0_d0_bb_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d0_b9___d1_82_d0_b8_d0_bf_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d1_8f" data-role="member">
+        <text x="467.49" y="176" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>типДействия</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_96_d1_83_d1_80_d0_bd_d0_b0_d0_bb_d0_94_d0_b5_d0_b9_d1_81_d1_82_d0_b2_d0_b8_d0_b9___d0_be_d0_bf_d0_b8_d1_81_d0_b0_d0_bd_d0_b8_d0_b5" data-role="member">
+        <text x="467.49" y="196" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>описание</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81" data-role="vertex">
+      <rect x="674.16" y="50" width="333.33" height="208" class="m-shape"/>
+      <rect x="674.16" y="50" width="333.33" height="32" class="m-shape class-header"/>
+      <line x1="674.16" y1="82" x2="1007.49" y2="82" class="class-divider"/>
+      <line x1="674.16" y1="210" x2="1007.49" y2="210" class="class-divider"/>
+      <text x="840.82" y="66" class="m-label t-label-strong" text-anchor="middle">Авиарейс</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_b8_d0_b4" data-role="member">
+        <text x="682.16" y="96" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_bd_d0_be_d0_bc_d0_b5_d1_80_d0_a0_d0_b5_d0_b9_d1_81_d0_b0" data-role="member">
+        <text x="682.16" y="116" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>номерРейса</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_bf_d0_bb_d0_b0_d0_bd_d0_92_d1_8b_d0_bb_d0_b5_d1_82" data-role="member">
+        <text x="682.16" y="136" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>планВылет</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_bf_d0_bb_d0_b0_d0_bd_d0_9f_d1_80_d0_b8_d0_bb_d0_b5_d1_82" data-role="member">
+        <text x="682.16" y="156" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>планПрилет</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d1_84_d0_b0_d0_ba_d1_82_d0_92_d1_80_d0_b5_d0_bc_d1_8f" data-role="member">
+        <text x="682.16" y="176" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>фактВремя</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d1_81_d1_82_d0_b0_d1_82_d1_83_d1_81" data-role="member">
+        <text x="682.16" y="196" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>статус</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">СтатусРейса</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_be_d0_b1_d0_bd_d0_be_d0_b2_d0_b8_d1_82_d1_8c_d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_28_29" data-role="member">
+        <text x="682.16" y="224" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>обновитьСтатус(новыйСтатус: СтатусРейса)</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">void</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d1_80_d0_b5_d0_b9_d1_81___d0_be_d1_82_d0_bf_d1_80_d0_b0_d0_b2_d0_b8_d1_82_d1_8c_d0_9d_d0_b0_d0_a2_d0_b0_d0_b1_d0_bb_d0_be_28_29" data-role="member">
+        <text x="682.16" y="244" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>отправитьНаТабло()</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">void</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0" data-role="vertex">
+      <rect x="1047.49" y="52" width="120" height="204" class="m-shape"/>
+      <rect x="1047.49" y="52" width="120" height="48" class="m-shape class-header"/>
+      <line x1="1047.49" y1="100" x2="1167.49" y2="100" class="class-divider"/>
+      <line x1="1047.49" y1="248" x2="1167.49" y2="248" class="class-divider"/>
+      <text x="1107.49" y="64" class="m-label class-annotation t-caption" text-anchor="middle">&lt;&lt;enum&gt;&gt;</text>
+      <text x="1107.49" y="82" class="m-label t-label-strong" text-anchor="middle">СтатусРейса</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_9f_d0_9e_5f_d0_a0_d0_90_d0_a1_d0_9f_d0_98_d0_a1_d0_90_d0_9d_d0_98_d0_ae" data-role="member">
+        <text x="1055.49" y="114" class="m-label t-code" text-anchor="start">ПО_РАСПИСАНИЮ</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_a0_d0_95_d0_93_d0_98_d0_a1_d0_a2_d0_a0_d0_90_d0_a6_d0_98_d0_af" data-role="member">
+        <text x="1055.49" y="134" class="m-label t-code" text-anchor="start">РЕГИСТРАЦИЯ</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_9f_d0_9e_d0_a1_d0_90_d0_94_d0_9a_d0_90" data-role="member">
+        <text x="1055.49" y="154" class="m-label t-code" text-anchor="start">ПОСАДКА</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_97_d0_90_d0_94_d0_95_d0_a0_d0_96_d0_90_d0_9d" data-role="member">
+        <text x="1055.49" y="174" class="m-label t-code" text-anchor="start">ЗАДЕРЖАН</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_92_d0_ab_d0_9b_d0_95_d0_a2_d0_95_d0_9b" data-role="member">
+        <text x="1055.49" y="194" class="m-label t-code" text-anchor="start">ВЫЛЕТЕЛ</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_9f_d0_a0_d0_98_d0_91_d0_ab_d0_9b" data-role="member">
+        <text x="1055.49" y="214" class="m-label t-code" text-anchor="start">ПРИБЫЛ</text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_b0_d1_82_d1_83_d1_81_d0_a0_d0_b5_d0_b9_d1_81_d0_b0___d0_9e_d0_a2_d0_9c_d0_95_d0_9d_d0_95_d0_9d" data-role="member">
+        <text x="1055.49" y="234" class="m-label t-code" text-anchor="start">ОТМЕНЕН</text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb" data-role="vertex">
+      <rect x="1207.49" y="100" width="135" height="108" class="m-shape"/>
+      <rect x="1207.49" y="100" width="135" height="32" class="m-shape class-header"/>
+      <line x1="1207.49" y1="132" x2="1342.49" y2="132" class="class-divider"/>
+      <line x1="1207.49" y1="200" x2="1342.49" y2="200" class="class-divider"/>
+      <text x="1274.99" y="116" class="m-label t-label-strong" text-anchor="middle">Терминал</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb___d0_b8_d0_b4" data-role="member">
+        <text x="1215.49" y="146" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb___d0_ba_d0_be_d0_b4" data-role="member">
+        <text x="1215.49" y="166" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>код</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a2_d0_b5_d1_80_d0_bc_d0_b8_d0_bd_d0_b0_d0_bb___d0_bd_d0_b0_d0_b7_d0_b2_d0_b0_d0_bd_d0_b8_d0_b5" data-role="member">
+        <text x="1215.49" y="186" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>название</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_90_d0_b2_d0_b8_d0_b0_d0_ba_d0_be_d0_bc_d0_bf_d0_b0_d0_bd_d0_b8_d1_8f" data-role="vertex">
+      <rect x="1382.49" y="100" width="135" height="108" class="m-shape"/>
+      <rect x="1382.49" y="100" width="135" height="32" class="m-shape class-header"/>
+      <line x1="1382.49" y1="132" x2="1517.48" y2="132" class="class-divider"/>
+      <line x1="1382.49" y1="200" x2="1517.48" y2="200" class="class-divider"/>
+      <text x="1449.98" y="116" class="m-label t-label-strong" text-anchor="middle">Авиакомпания</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d0_ba_d0_be_d0_bc_d0_bf_d0_b0_d0_bd_d0_b8_d1_8f___d0_b8_d0_b4" data-role="member">
+        <text x="1390.49" y="146" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d0_ba_d0_be_d0_bc_d0_bf_d0_b0_d0_bd_d0_b8_d1_8f___d0_ba_d0_be_d0_b4_d0_98_d0_90_d0_a2_d0_90" data-role="member">
+        <text x="1390.49" y="166" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>кодИАТА</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_90_d0_b2_d0_b8_d0_b0_d0_ba_d0_be_d0_bc_d0_bf_d0_b0_d0_bd_d0_b8_d1_8f___d0_bd_d0_b0_d0_b7_d0_b2_d0_b0_d0_bd_d0_b8_d0_b5" data-role="member">
+        <text x="1390.49" y="186" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>название</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_92_d0_be_d0_b7_d0_b4_d1_83_d1_88_d0_bd_d0_be_d0_b5_d0_a1_d1_83_d0_b4_d0_bd_d0_be" data-role="vertex">
+      <rect x="1557.48" y="90" width="168.05" height="128" class="m-shape"/>
+      <rect x="1557.48" y="90" width="168.05" height="32" class="m-shape class-header"/>
+      <line x1="1557.48" y1="122" x2="1725.54" y2="122" class="class-divider"/>
+      <line x1="1557.48" y1="210" x2="1725.54" y2="210" class="class-divider"/>
+      <text x="1641.51" y="106" class="m-label t-label-strong" text-anchor="middle">ВоздушноеСудно</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d0_be_d0_b7_d0_b4_d1_83_d1_88_d0_bd_d0_be_d0_b5_d0_a1_d1_83_d0_b4_d0_bd_d0_be___d0_b8_d0_b4" data-role="member">
+        <text x="1565.48" y="136" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d0_be_d0_b7_d0_b4_d1_83_d1_88_d0_bd_d0_be_d0_b5_d0_a1_d1_83_d0_b4_d0_bd_d0_be___d0_b1_d0_be_d1_80_d1_82_d0_be_d0_b2_d0_be_d0_b9_d0_9d_d0_be_d0_bc_d0_b5_d1_80" data-role="member">
+        <text x="1565.48" y="156" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>бортовойНомер</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d0_be_d0_b7_d0_b4_d1_83_d1_88_d0_bd_d0_be_d0_b5_d0_a1_d1_83_d0_b4_d0_bd_d0_be___d0_bc_d0_be_d0_b4_d0_b5_d0_bb_d1_8c" data-role="member">
+        <text x="1565.48" y="176" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>модель</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d0_be_d0_b7_d0_b4_d1_83_d1_88_d0_bd_d0_be_d0_b5_d0_a1_d1_83_d0_b4_d0_bd_d0_be___d0_b2_d0_bc_d0_b5_d1_81_d1_82_d0_b8_d0_bc_d0_be_d1_81_d1_82_d1_8c" data-role="member">
+        <text x="1565.48" y="196" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>вместимость</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_9c_d0_b5_d1_81_d1_82_d0_be_d0_a1_d1_82_d0_be_d1_8f_d0_bd_d0_ba_d0_b8" data-role="vertex">
+      <rect x="1765.54" y="100" width="313.49" height="108" class="m-shape"/>
+      <rect x="1765.54" y="100" width="313.49" height="32" class="m-shape class-header"/>
+      <line x1="1765.54" y1="132" x2="2079.03" y2="132" class="class-divider"/>
+      <line x1="1765.54" y1="180" x2="2079.03" y2="180" class="class-divider"/>
+      <text x="1922.28" y="116" class="m-label t-label-strong" text-anchor="middle">МестоСтоянки</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9c_d0_b5_d1_81_d1_82_d0_be_d0_a1_d1_82_d0_be_d1_8f_d0_bd_d0_ba_d0_b8___d0_b8_d0_b4" data-role="member">
+        <text x="1773.54" y="146" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9c_d0_b5_d1_81_d1_82_d0_be_d0_a1_d1_82_d0_be_d1_8f_d0_bd_d0_ba_d0_b8___d0_bd_d0_be_d0_bc_d0_b5_d1_80_d0_a1_d1_82_d0_be_d1_8f_d0_bd_d0_ba_d0_b8" data-role="member">
+        <text x="1773.54" y="166" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>номерСтоянки</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_9c_d0_b5_d1_81_d1_82_d0_be_d0_a1_d1_82_d0_be_d1_8f_d0_bd_d0_ba_d0_b8___d0_bf_d1_80_d0_be_d0_b2_d0_b5_d1_80_d0_b8_d1_82_d1_8c_d0_a1_d0_b2_d0_be_d0_b1_d0_be_d0_b4_d0_bd_d0_be_d1_81_d1_82_d1_8c_28_29" data-role="member">
+        <text x="1773.54" y="194" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>проверитьСвободность(время: datetime)</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">bool</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0" data-role="vertex">
+      <rect x="2119.03" y="80" width="168.05" height="148" class="m-shape"/>
+      <rect x="2119.03" y="80" width="168.05" height="32" class="m-shape class-header"/>
+      <line x1="2119.03" y1="112" x2="2287.08" y2="112" class="class-divider"/>
+      <line x1="2119.03" y1="220" x2="2287.08" y2="220" class="class-divider"/>
+      <text x="2203.06" y="96" class="m-label t-label-strong" text-anchor="middle">СменаПерсонала</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0___d0_b8_d0_b4" data-role="member">
+        <text x="2127.03" y="126" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0___d1_84_d0_b8_d0_be_d0_a1_d0_be_d1_82_d1_80_d1_83_d0_b4_d0_bd_d0_b8_d0_ba_d0_b0" data-role="member">
+        <text x="2127.03" y="146" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>фиоСотрудника</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0___d0_b4_d0_be_d0_bb_d0_b6_d0_bd_d0_be_d1_81_d1_82_d1_8c" data-role="member">
+        <text x="2127.03" y="166" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>должность</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0___d0_bd_d0_b0_d1_87_d0_b0_d0_bb_d0_be_d0_a1_d0_bc_d0_b5_d0_bd_d1_8b" data-role="member">
+        <text x="2127.03" y="186" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>началоСмены</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d0_bc_d0_b5_d0_bd_d0_b0_d0_9f_d0_b5_d1_80_d1_81_d0_be_d0_bd_d0_b0_d0_bb_d0_b0___d0_ba_d0_be_d0_bd_d0_b5_d1_86_d0_a1_d0_bc_d0_b5_d0_bd_d1_8b" data-role="member">
+        <text x="2127.03" y="206" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>конецСмены</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">datetime</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_92_d1_8b_d1_85_d0_be_d0_b4_d0_9d_d0_b0_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d1_83" data-role="vertex">
+      <rect x="941.49" y="378" width="313.49" height="108" class="m-shape"/>
+      <rect x="941.49" y="378" width="313.49" height="32" class="m-shape class-header"/>
+      <line x1="941.49" y1="410" x2="1254.99" y2="410" class="class-divider"/>
+      <line x1="941.49" y1="458" x2="1254.99" y2="458" class="class-divider"/>
+      <text x="1098.24" y="394" class="m-label t-label-strong" text-anchor="middle">ВыходНаПосадку</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d1_8b_d1_85_d0_be_d0_b4_d0_9d_d0_b0_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d1_83___d0_b8_d0_b4" data-role="member">
+        <text x="949.49" y="424" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d1_8b_d1_85_d0_be_d0_b4_d0_9d_d0_b0_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d1_83___d0_bd_d0_be_d0_bc_d0_b5_d1_80_d0_93_d0_b5_d0_b9_d1_82_d0_b0" data-role="member">
+        <text x="949.49" y="444" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>номерГейта</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_92_d1_8b_d1_85_d0_be_d0_b4_d0_9d_d0_b0_d0_9f_d0_be_d1_81_d0_b0_d0_b4_d0_ba_d1_83___d0_bf_d1_80_d0_be_d0_b2_d0_b5_d1_80_d0_b8_d1_82_d1_8c_d0_a1_d0_b2_d0_be_d0_b1_d0_be_d0_b4_d0_bd_d0_be_d1_81_d1_82_d1_8c_28_29" data-role="member">
+        <text x="949.49" y="472" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>проверитьСвободность(время: datetime)</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">bool</tspan></text>
+      </g>
+    </g>
+    <g class="m-node m-node--rect" id="m10b5ba__node___d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b0_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d0_b8" data-role="vertex">
+      <rect x="1294.99" y="378" width="313.49" height="108" class="m-shape"/>
+      <rect x="1294.99" y="378" width="313.49" height="32" class="m-shape class-header"/>
+      <line x1="1294.99" y1="410" x2="1608.48" y2="410" class="class-divider"/>
+      <line x1="1294.99" y1="458" x2="1608.48" y2="458" class="class-divider"/>
+      <text x="1451.73" y="394" class="m-label t-label-strong" text-anchor="middle">СтойкаРегистрации</text>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b0_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d0_b8___d0_b8_d0_b4" data-role="member">
+        <text x="1302.99" y="424" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>ид</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">int</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b0_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d0_b8___d0_bd_d0_be_d0_bc_d0_b5_d1_80_d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b8" data-role="member">
+        <text x="1302.99" y="444" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>номерСтойки</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">string</tspan></text>
+      </g>
+      <g class="m-node m-field" id="m10b5ba__field___d0_a1_d1_82_d0_be_d0_b9_d0_ba_d0_b0_d0_a0_d0_b5_d0_b3_d0_b8_d1_81_d1_82_d1_80_d0_b0_d1_86_d0_b8_d0_b8___d0_bf_d1_80_d0_be_d0_b2_d0_b5_d1_80_d0_b8_d1_82_d1_8c_d0_a1_d0_b2_d0_be_d0_b1_d0_be_d0_b4_d0_bd_d0_be_d1_81_d1_82_d1_8c_28_29" data-role="member">
+        <text x="1302.99" y="472" class="m-label t-code" text-anchor="start"><tspan class="m-rt-fg-text-muted">+ </tspan><tspan>проверитьСвободность(время: datetime)</tspan><tspan class="m-rt-fg-text-muted">: </tspan><tspan class="m-rt-fg-text-sec">bool</tspan></text>
+      </g>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1063.32" y="324.85" width="69.84" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="1098.24" y="336" class="m-label t-edge" text-anchor="middle">содержит &gt;</text>
+    </g>
+    <g class="m-edge-label">
+      <text x="1260.99" y="222" class="m-label m-endpoint-label t-edge" text-anchor="middle">1</text>
+    </g>
+    <g class="m-edge-label">
+      <text x="1084.24" y="364" class="m-label m-endpoint-label t-edge" text-anchor="middle">1..*</text>
+    </g>
+    <g class="m-edge-label">
+      <rect x="1416.81" y="324.85" width="69.84" height="22.3" rx="11.15" ry="11.15" class="m-pill-bg"/>
+      <text x="1451.73" y="336" class="m-label t-edge" text-anchor="middle">содержит &gt;</text>
+    </g>
+    <g class="m-edge-label">
+      <text x="1260.99" y="222" class="m-label m-endpoint-label t-edge" text-anchor="middle">1</text>
+    </g>
+    <g class="m-edge-label">
+      <text x="1437.73" y="364" class="m-label m-endpoint-label t-edge" text-anchor="middle">1..*</text>
+    </g>
+  </g>
+</svg>
